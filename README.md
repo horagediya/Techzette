@@ -1,5 +1,5 @@
 # Techzette
-As part of the Cloud Computing module in the fourth semester, I created a cloud-based web application that allows users to buy laptops and computer accessories from various shops/companies in Techzette, as well as a function that allows them to design their own PC from any of the aforementioned shops/companies. Users can also sell their items by registering as individuals or businesses.
+As part of the Cloud Computing module in the fourth semester, We created a cloud-based web application that allows users to buy laptops and computer accessories from various shops/companies in Techzette, as well as a function that allows them to design their own PC from any of the aforementioned shops/companies. Users can also sell their items by registering as individuals or businesses.
 
 Techzette is divided into two pieces.
 
