@@ -3,11 +3,13 @@ As part of the Cloud Computing module in the fourth semester, I created a cloud-
 
 Techzette is divided into two pieces.
 
+1. Laptops and accessories.
 
-Laptops and accessories are available. Users may establish accounts and register with Techzette as buyers or vendors. Buyers may purchase laptops and other computer equipment from registered individual merchants, while sellers can advertise their wares.
+Users may establish accounts and register with Techzette as buyers or vendors. Buyers may purchase laptops and other computer equipment  from registered individual merchants, while sellers can advertise their wares.
 
-Partners and PC construct. Users can also create profiles as purchasers or partners (for IT businesses) and build their PCs through this section.
-. This section allows users to build a PC with any computer part from any partner. Also, this section helps users to choose their favorite shop/company(partner) and buy products from them.
+2. Partners and PC build.
+
+Users can also create profiles as purchasers or partners (for IT businesses) and build their PCs through this section.This section allows users to build a PC with any computer part from any partner. Also, this section helps users to choose their favorite shop/company(partner) and buy products from them.
 
 There are 2 payment methods.
 
