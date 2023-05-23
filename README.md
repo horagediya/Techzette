@@ -1,13 +1,13 @@
 # Techzette
-As the project for the Cloud Computing module in 4th semester, developed a cloud-based web application for users to buy laptops and computer accessories from various shops/companies in Techzette along with a function to build their PC from any of the above shops/companies. Also, users can sell their products by registering as individual sellers or a company.
+As part of the Cloud Computing module in the fourth semester, I created a cloud-based web application that allows users to buy laptops and computer accessories from various shops/companies in Techzette, as well as a function that allows them to design their own PC from any of the aforementioned shops/companies. Users can also sell their items by registering as individuals or businesses.
 
-There are 2 main sections in Techzette.
+Techzette is divided into two pieces.
 
-1. Laptops and Accessories.
-Users can create their accounts and register with Techzette as a buyer or individual sellers. Buyers can buy laptops and other computer accessories from registered individual sellers while sellers can post their products.
 
-1. Partners and PC build.
-Users can also create their accounts through this section as buyers or partners(for tech companies) and to build their PC. This section allows users to build a PC with any computer part from any partner. Also, this section helps users to choose their favorite shop/company(partner) and buy products from them.
+Laptops and accessories are available. Users may establish accounts and register with Techzette as buyers or vendors. Buyers may purchase laptops and other computer equipment from registered individual merchants, while sellers can advertise their wares.
+
+Partners and PC construct. Users can also create profiles as purchasers or partners (for IT businesses) and build their PCs through this section.
+. This section allows users to build a PC with any computer part from any partner. Also, this section helps users to choose their favorite shop/company(partner) and buy products from them.
 
 There are 2 payment methods.
 
